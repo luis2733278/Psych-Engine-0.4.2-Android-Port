@@ -46,6 +46,11 @@ class CreditsState extends MusicBeatState
 		add(grpOptions);
 
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
+                        ['Creator build'],
+                        ['Sr Spooky YT',		    'Sr Spooky YT',		    'el pibe que iso el mod',	 'https://youtube.com/channel/UCl-XIIc9W_KKhVlVJDZD3og',	'0xFFC30085'],
+                        ['creator android port'],
+                        ['soul bf',		    'Soul bf ',		    'el pibe que porteo esto',	 'https://www.youtube.com/channel/UCO8zgo4sLnJHJwWMA1hevIA',	'0xFFC30085'],
+                        ['creator android port'],
 			['Psych Engine Android Port'],
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
 			['Psych Engine Team'],
