@@ -1,20 +1,20 @@
 {
 	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+		["Shoot", "picod1", [34, 51, 68]],
+	    ["Philly Remix", "picod2", [34, 51, 68]],
+	    ["Sinergy", "picod3", [34, 51, 68]]
 	],
 
 	"weekCharacters": [
-		"spooky",
-		"bf",
-		"gf"
+		"",
+		"",
+		""
 	],
-	"weekBackground": "halloween",
+	"weekBackground": "philly2",
 
-	"storyName": "Spooky Month",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
+	"storyName": "Shoot",
+	"weekBefore": "week7",
+	"weekName": "Week 8",
 	"startUnlocked": true,
 
 	"hideStoryMode": false,
